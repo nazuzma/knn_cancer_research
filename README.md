@@ -1,4 +1,4 @@
-# MAchine learning K-Nearest Neighbor algorithm for investigating cancer accuracy
+# Machine learning K-Nearest Neighbor algorithm for investigating cancer accuracy
 
 # knn_cancer_research
 
