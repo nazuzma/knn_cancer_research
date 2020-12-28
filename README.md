@@ -1,4 +1,4 @@
-# K nearest neighbor model for investigating positive cancer symptoms
+# K-Nearest Neighbor model for investigating cancer accuracy
 
 # knn_cancer_research
 
